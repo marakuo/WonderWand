@@ -31,7 +31,7 @@ const Goals: React.FC = () => {
             Our Mission & Goals
           </h2>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto leading-relaxed">
-            WonderWond is committed to creating mobility solutions that transform lives, 
+            WonderWand is committed to creating mobility solutions that transform lives, 
             promote independence, and build confidence in every step forward.
           </p>
         </div>

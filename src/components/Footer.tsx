@@ -7,7 +7,7 @@ const Footer: React.FC = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid md:grid-cols-3 gap-8">
           <div>
-            <h3 className="text-2xl font-bold mb-4">WonderWond</h3>
+            <h3 className="text-2xl font-bold mb-4">WonderWand</h3>
             <p className="text-gray-300 leading-relaxed mb-4">
               Empowering the visually impaired with advanced mobility technology 
               that promotes independence, safety, and confidence in every step.
@@ -48,7 +48,7 @@ const Footer: React.FC = () => {
 
         <div className="border-t border-gray-700 mt-8 pt-8 text-center">
           <p className="text-gray-400">
-            © 2025 WonderWond. All rights reserved. | Privacy Policy | Terms of Service | Accessibility Statement
+            © 2025 WonderWand. All rights reserved. | Privacy Policy | Terms of Service | Accessibility Statement
           </p>
         </div>
       </div>

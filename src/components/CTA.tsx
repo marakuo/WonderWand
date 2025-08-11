@@ -10,7 +10,7 @@ const CTA: React.FC = () => {
         </h2>
         <p className="text-xl text-blue-100 mb-12 leading-relaxed">
           Join thousands of individuals who have transformed their daily navigation 
-          with WonderWond Smart Stick. Take the first step toward greater independence today.
+          with WonderWand Smart Stick. Take the first step toward greater independence today.
         </p>
 
         <div className="grid md:grid-cols-2 gap-8 mb-12">
@@ -18,7 +18,7 @@ const CTA: React.FC = () => {
             <Phone size={48} className="mx-auto mb-4 text-blue-200" />
             <h3 className="text-2xl font-semibold mb-4">Call Us Today</h3>
             <p className="text-blue-100 mb-4">
-              Speak with our accessibility specialists to learn how WonderWond 
+              Speak with our accessibility specialists to learn how WonderWand 
               can enhance your mobility and independence.
             </p>
             <button className="bg-white text-blue-800 px-6 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors">
@@ -31,7 +31,7 @@ const CTA: React.FC = () => {
             <h3 className="text-2xl font-semibold mb-4">Get Information</h3>
             <p className="text-blue-100 mb-4">
               Request detailed product information, pricing, and availability 
-              for WonderWond Smart Stick.
+              for WonderWand Smart Stick.
             </p>
             <button className="bg-white text-blue-800 px-6 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors">
               Request Info

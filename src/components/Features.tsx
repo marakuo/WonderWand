@@ -71,7 +71,7 @@ const Features: React.FC = () => {
             Advanced Features
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
-            WonderWond Smart Stick combines cutting-edge technology with user-friendly design 
+            WonderWand Smart Stick combines cutting-edge technology with user-friendly design 
             to provide comprehensive mobility assistance for visually impaired individuals.
           </p>
         </div>

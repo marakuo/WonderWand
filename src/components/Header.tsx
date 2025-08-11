@@ -12,7 +12,7 @@ const Header: React.FC<HeaderProps> = ({ mobileMenuOpen, setMobileMenuOpen }) =>
       <nav className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center py-4">
           <div className="flex items-center">
-            <h1 className="text-2xl font-bold text-navy-900">WonderWond</h1>
+            <h1 className="text-2xl font-bold text-navy-900">WonderWand</h1>
           </div>
           
           {/* Desktop Navigation */}
