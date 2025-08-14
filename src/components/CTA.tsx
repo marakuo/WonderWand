@@ -22,7 +22,7 @@ const CTA: React.FC = () => {
               can enhance your mobility and independence.
             </p>
             <button className="bg-white text-blue-800 px-6 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors">
-              1-800-WONDER-1
+              +20 11 27197834
             </button>
           </div>
 
