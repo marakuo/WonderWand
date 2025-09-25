@@ -30,12 +30,15 @@ const CTA: React.FC = () => {
             <Mail size={48} className="mx-auto mb-4 text-blue-200" />
             <h3 className="text-2xl font-semibold mb-4">Get Information</h3>
             <p className="text-blue-100 mb-4">
-              Request detailed product information, pricing, and availability 
-              for WonderWand Smart Stick.
+              Send us an email for detailed product information, pricing, 
+              and availability for WonderWand Smart Stick.
             </p>
-            <button className="bg-white text-blue-800 px-6 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors">
-              Request Info
-            </button>
+            <a 
+              href="mailto:wonderwand.contact158@gmail.com"
+              className="inline-block bg-white text-blue-800 px-6 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors"
+            >
+              wonderwand.contact158@gmail.com
+            </a>
           </div>
         </div>
 

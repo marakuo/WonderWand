@@ -4,6 +4,7 @@ import Hero from './components/Hero';
 import Features from './components/Features';
 import Benefits from './components/Benefits';
 import Goals from './components/Goals';
+import Team from './components/Team';
 import CTA from './components/CTA';
 import Footer from './components/Footer';
 
@@ -17,6 +18,7 @@ function App() {
       <Features />
       <Benefits />
       <Goals />
+      <Team />
       <CTA />
       <Footer />
     </div>

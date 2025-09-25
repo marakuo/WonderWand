@@ -24,6 +24,9 @@ const Header: React.FC<HeaderProps> = ({ mobileMenuOpen, setMobileMenuOpen }) =>
               <a href="#benefits" className="text-gray-700 hover:text-navy-900 px-3 py-2 text-lg font-medium transition-colors">
                 Benefits
               </a>
+              <a href="#team" className="text-gray-700 hover:text-navy-900 px-3 py-2 text-lg font-medium transition-colors">
+                Team
+              </a>
               <a href="#contact" className="bg-navy-900 text-white px-6 py-3 rounded-lg text-lg font-medium hover:bg-navy-800 transition-colors">
                 Get Started
               </a>
@@ -59,6 +62,13 @@ const Header: React.FC<HeaderProps> = ({ mobileMenuOpen, setMobileMenuOpen }) =>
                 onClick={() => setMobileMenuOpen(false)}
               >
                 Benefits
+              </a>
+              <a
+                href="#team"
+                className="block px-3 py-2 text-lg font-medium text-gray-700 hover:text-navy-900"
+                onClick={() => setMobileMenuOpen(false)}
+              >
+                Team
               </a>
               <a
                 href="#contact"
